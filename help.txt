@@ -1,0 +1,24 @@
+Help Instructions for Forensic Web History Analyser
+
+1.	Load file into table using the ‘Choose File’ button
+2.	Click on a record in the table to display in the ‘Detailed Analysis Area’
+3.	Filter the search by typing a category into the search text field and click the search button
+4.	In order to reset the search area click the reset button.
+5.	Filter search by web browser using combo box
+6.	Exit the program by clicking on the exit button
+
+
+Display Results Page
+
+1.	Click on the relevant graph to view the results
+2.	Exit the program by clicking on the exit button
+
+
+Add Data to Table Page
+
+1.	Fill the text fields with the correct and relevant data and click ‘Add’ button 
+	to add the record to the database.
+2.	In order to delete a record the exact URL and other text fields but be typed into the text fields 
+	and then click the ‘Delete’ button to remove them from the database.
+3.	Exit the program by clicking on the exit button
+
